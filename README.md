@@ -27,3 +27,5 @@ Here are some ideas to get you started:
 ![Santiago Quiñones's github stats](https://github-readme-stats.vercel.app/api?username=lsantiago&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
 
 Sharing knowledge on [YouTube](https://www.youtube.com/channel/UCsRB5ukwk-mXsoe3Gj6fGOw?view_as=subscriber)
+
+Experienced Web Developer with a demonstrated history of working in the computer software industry. Skilled in Java, C++, Python, MATLAB, PostgreSQL, Linux Administration and Android Development.
