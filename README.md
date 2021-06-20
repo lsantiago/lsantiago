@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 -->
 
 
-### Software Developer and Educator 💻
+### Software Developer and Educator, Research UTPL 💻
 
 
 [![researchgate](https://img.shields.io/badge/researchgate-Santiago--Quinones-9cf)](https://www.researchgate.net/profile/Santiago-Quinones)
