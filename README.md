@@ -24,7 +24,10 @@ Here are some ideas to get you started:
 [![youtube-view-channel](https://img.shields.io/youtube/channel/views/UCsRB5ukwk-mXsoe3Gj6fGOw?style=social)](https://www.youtube.com/channel/UCsRB5ukwk-mXsoe3Gj6fGOw?view_as=subscriber)
 
 
-![Santiago Quiñones's github stats](https://github-readme-stats.vercel.app/api?username=lsantiago&show_icons=true&theme=dark&count_private=true)
+
+<a href="https://github.com/lsantiago">
+  <img  src="https://github-readme-stats.vercel.app/api?username=lsantiago&show_icons=true&theme=dark&count_private=true" />
+</a>
 
 Sharing knowledge on [YouTube](https://www.youtube.com/channel/UCsRB5ukwk-mXsoe3Gj6fGOw?view_as=subscriber)
 
